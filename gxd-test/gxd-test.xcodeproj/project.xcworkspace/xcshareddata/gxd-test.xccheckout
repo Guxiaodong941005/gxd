@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB84E5E8-2A7C-4F6C-85DC-0A281FC87583</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>23D70516EB01929EE61CCAD1EC9A82D6023A948D</key>
+		<string>https://github.com/Guxiaodong941005/gxd</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gxd-test/gxd-test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>23D70516EB01929EE61CCAD1EC9A82D6023A948D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Guxiaodong941005/gxd</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>23D70516EB01929EE61CCAD1EC9A82D6023A948D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>23D70516EB01929EE61CCAD1EC9A82D6023A948D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gxd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
